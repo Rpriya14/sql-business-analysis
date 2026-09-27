@@ -1,4 +1,4 @@
-# Day 35 – SQL Business Analysis Project
+# SQL Business Analysis Project
 
 ## 📌 Project Overview
 This project is a beginner-friendly SQL mini project created as part of a structured Data Analyst learning plan.
